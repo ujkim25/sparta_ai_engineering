@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+beautifulsoup4
+lxml
+python-dotenv
+requests
+openai
+streamlit
